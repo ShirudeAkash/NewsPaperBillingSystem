@@ -23,7 +23,6 @@ mysql> show tables;
 | newspaper               |
 +-------------------------+
 
-
 mysql> describe admin;
 +------------------+--------------+------+-----+---------+-------+
 | Field            | Type         | Null | Key | Default | Extra |
